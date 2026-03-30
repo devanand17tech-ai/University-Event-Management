@@ -103,8 +103,5 @@ This project is licensed under the [BSD 3-Clause License](LICENSE).
 ## ✉️ Contact
 **Devanand** - [GitHub](https://github.com/devanand17tech-ai) | [Email](mailto:devanand17.tech@gmail.com)
 
-## ✉️ Contact
-**Devanand** - [GitHub](https://github.com/) | [Email](mailto:business.amitswain@gmail.com)
-
 ---
 <p align="center">Made with ❤️ by Devanand</p>
