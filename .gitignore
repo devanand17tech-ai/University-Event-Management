@@ -1,0 +1,22 @@
+# Ignore nodes_modules from frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Ignore Maven/Spring Boot artifacts from backend
+University-Event-Management-main/target/
+University-Event-Management-main/boot_log.txt
+University-Event-Management-main/.mvn/
+University-Event-Management-main/mvnw
+University-Event-Management-main/mvnw.cmd
+University-Event-Management-main/.project
+University-Event-Management-main/.classpath
+University-Event-Management-main/.settings/
+
+# Generic IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+.metadata/
+*.log
+*.tmp
